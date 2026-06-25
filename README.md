@@ -62,7 +62,7 @@ AI-powered job application tracker with kanban board, analytics dashboard, and C
 
 `Next.js` · `Anthropic SDK` · `Recharts` · `Supabase`
 
-### [Loan Default Prediction Platform](https://github.com/MuindiKate/loan-default-prediction)
+### [Loan Default Prediction Platform](https://github.com/MuindiKate/loan-default-app)
 ML model on alternative financial data (M-Pesa history) for SACCO borrowers with XAI outputs for loan officers.
 
 `Python` · `scikit-learn` · `Node.js` · `PostgreSQL` · `Next.js`
