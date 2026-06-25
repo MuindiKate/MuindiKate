@@ -38,39 +38,40 @@ I'm a software engineer based between Nairobi and Tallinn, building full-stack w
 
 ## 🛠️ Tech stack
 
-<details open>
-<summary><b>Click to expand / collapse</b></summary>
-<br>
+<div align="center">
 
-**Languages:**
+**Languages**
 
-![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin&logoColor=white) ![R](https://img.shields.io/badge/R-black?style=flat-square&logo=r&logoColor=white) ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java&logoColor=white)
+<img src="https://skillicons.dev/icons?i=py,ts,js,kotlin,r,java" />
 
-**Frontend:**
+**Frontend**
 
-![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-black?style=flat-square&logo=tailwindcss&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-black?style=flat-square&logo=shadcnui&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-black?style=flat-square&logo=flutter&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter" />
 
-**Backend:**
+**Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-black?style=flat-square&logo=nestjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-black?style=flat-square&logo=springboot&logoColor=white) ![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,spring,express" />
 
-**Databases:**
+**Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-black?style=flat-square&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-black?style=flat-square&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,mysql" />
 
-**ML & Data:**
+**ML & Data**
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-black?style=flat-square&logo=scikitlearn&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-black?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-black?style=flat-square&logo=apachekafka&logoColor=white) ![XAI](https://img.shields.io/badge/Explainable_AI-black?style=flat-square&logo=python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=sklearn,kafka" />
 
-**Cloud & DevOps:**
+**Cloud & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-black?style=flat-square&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=flat-square&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel&logoColor=white)
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,vercel" />
 
-**Other:**
+</div>
 
-![Power BI](https://img.shields.io/badge/Power_BI-black?style=flat-square&logo=powerbi&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-black?style=flat-square&logo=tableau&logoColor=white) ![UiPath RPA](https://img.shields.io/badge/UiPath_RPA-black?style=flat-square&logo=uipath&logoColor=white) ![TanStack Query](https://img.shields.io/badge/TanStack_Query-black?style=flat-square&logo=reactquery&logoColor=white) ![Recharts](https://img.shields.io/badge/Recharts-black?style=flat-square&logo=chartdotjs&logoColor=white) ![Anthropic SDK](https://img.shields.io/badge/Anthropic_SDK-black?style=flat-square&logo=anthropic&logoColor=white)
+<div align="center">
 
-</details>
+*Also working with:*
+![Power BI](https://img.shields.io/badge/Power_BI-black?style=flat-square&logo=powerbi&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-black?style=flat-square&logo=tableau&logoColor=white) ![UiPath RPA](https://img.shields.io/badge/UiPath_RPA-black?style=flat-square&logo=uipath&logoColor=white) ![TanStack Query](https://img.shields.io/badge/TanStack_Query-black?style=flat-square&logo=reactquery&logoColor=white) ![Recharts](https://img.shields.io/badge/Recharts-black?style=flat-square&logo=chartdotjs&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-black?style=flat-square&logo=shadcnui&logoColor=white) ![Anthropic SDK](https://img.shields.io/badge/Anthropic_SDK-black?style=flat-square&logo=anthropic&logoColor=white)
+
+</div>
 
 ---
 
