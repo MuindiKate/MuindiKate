@@ -10,8 +10,6 @@ I'm a software engineer based between Nairobi and Tallinn, building full-stack w
 
 <div align="center">
 
-**🌍 I build AI and data systems for underserved markets — turning Kenyan financial and education data into tools people actually use.**
-
 </div>
 
 <div align="center">
