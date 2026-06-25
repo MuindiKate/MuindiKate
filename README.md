@@ -2,11 +2,11 @@
 
 ### Full-stack engineer building impactful tech across Africa 🌍
 
-I'm a software engineer based between Nairobi and Tallinn, building full-stack web apps, ML-powered systems, and data-driven tools with a focus on social impact in Africa. Three-time Dean's List at Strathmore University. AWS Cloud & AI Practitioner certified.
+I'm a software engineer based between Nairobi and Tallinn, building full-stack web apps, ML-powered systems, and data-driven tools with a focus on social impact in Africa. AWS Cloud & AI Practitioner certified.
 
 ---
 
-🔭 I'm currently working on **medtriageAbout Production-grade medical symptom triage API built with FastAPI, RAG architecture, and Claude AI. Designed for community health worker workflows in low-resource settings across sub-Saharan Africa.**
+🔭 I'm currently working on **medtriage Production-grade medical symptom triage API built with FastAPI, RAG architecture, and Claude AI. Designed for community health worker workflows in low-resource settings across sub-Saharan Africa.**
 🌱 I'm learning **RAG architectures, medical AI, affective computing**
 💬 Ask me about **Next.js, Supabase, Python ML pipelines, building products in Africa**
 📫 Reach me: **cmuindi05@gmail.com**
