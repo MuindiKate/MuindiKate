@@ -6,10 +6,14 @@ I'm a software engineer based between Nairobi and Tallinn, building full-stack w
 
 ---
 
-🔭 I'm currently working on **MedTriage-A production-grade medical symptom triage for CHWs.**
+🔭 I'm currently working on **MedTriage-A medical symptom triage for CHWs.**
+
 🌱 I'm learning **RAG architectures, medical AI, affective computing**
+
 💬 Ask me about **Next.js, Supabase, Python ML pipelines, building products in Africa**
+
 📫 Reach me: **cmuindi05@gmail.com**
+
 🗣️ Languages: English & Swahili (native) · Mandarin Chinese (HSK 3)
 
 ---
