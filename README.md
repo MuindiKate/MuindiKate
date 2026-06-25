@@ -57,11 +57,6 @@ Scholarship & bursary discovery platform for Kenyan students — making funding 
 
 `Next.js` · `Supabase` · `Tailwind CSS`
 
-### [Careerly](https://github.com/MuindiKate/careerly)
-AI-powered job application tracker with kanban board, analytics dashboard, and Claude integration.
-
-`Next.js` · `Anthropic SDK` · `Recharts` · `Supabase`
-
 ### [Loan Default Prediction Platform](https://github.com/MuindiKate/loan-default-app)
 ML model on alternative financial data (M-Pesa history) for SACCO borrowers with XAI outputs for loan officers.
 
