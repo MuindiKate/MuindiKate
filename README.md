@@ -2,11 +2,17 @@
 
 # Hi, I'm Catherine Muindi 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines= Fullstack+engineer+building+impactful+tech+globally+%F0%9F%8C%8D;Nairobi+%E2%86%94%EF%B8%8F+Tallinn;Next.js+%C2%B7+Supabase+%C2%B7+Python+ML+pipelines;Building+products+in+Africa&center=true&width=600&height=45&color=2EA043&vCenter=true&size=22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-stack+engineer+building+impactful+tech+globally+%F0%9F%8C%8D;Nairobi+%E2%86%94%EF%B8%8F+Tallinn;Next.js+%C2%B7+Supabase+%C2%B7+Python+ML+pipelines;Building+products+in+Africa&center=true&width=600&height=45&color=2EA043&vCenter=true&size=22)](https://git.io/typing-svg)
 
 </div>
 
 I'm a software engineer based between Nairobi and Tallinn, building full-stack web apps, ML-powered systems, and data-driven tools with a focus on social impact in the world. Strathmore University Graduate · AWS Cloud & AI Practitioner certified.
+
+<div align="center">
+
+**🌍 I build AI and data systems for underserved markets — turning Kenyan financial and education data into tools people actually use.**
+
+</div>
 
 <div align="center">
 
@@ -86,12 +92,12 @@ I'm a software engineer based between Nairobi and Tallinn, building full-stack w
 <br>
 
 ### [Elimisha](https://github.com/MuindiKate/elimisha)
-Scholarship & bursary discovery platform for Kenyan students — making funding opportunities accessible and searchable.
+Scholarship & bursary discovery platform for Kenyan students — making funding opportunities accessible and searchable. **Live, with an early base of real student users.**
 
 `Next.js` · `Supabase` · `Tailwind CSS`
 
 ### [Loan Default Prediction Platform](https://github.com/MuindiKate/loan-default-app)
-ML model on alternative financial data (M-Pesa history) for SACCO borrowers with XAI outputs for loan officers.
+ML model on alternative financial data (M-Pesa history) for SACCO borrowers, with explainable-AI outputs so loan officers can see *why* a prediction was made, not just the score. <!-- TODO: drop in your accuracy/precision/recall number here once confirmed -->
 
 `Python` · `scikit-learn` · `Node.js` · `PostgreSQL` · `Next.js`
 
@@ -124,12 +130,6 @@ Real-time Kafka streaming pipeline with anomaly detection and Power BI visualisa
 <div align="center">
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=MuindiKate&theme=flat&no-frame=true&row=1&column=6)
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuindiKate&theme=react-dark&hide_border=true&bg_color=00000000" width="100%" alt="snake-contribution-graph"/>
 
 </div>
 
