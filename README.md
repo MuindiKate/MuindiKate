@@ -112,7 +112,7 @@ Real-time Kafka streaming pipeline with anomaly detection and Power BI visualisa
 
 ## 📊 GitHub activity
 
-[![Catherine's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MuindiKate&hide_border=true&area=true&theme=gray-violet&custom_title=Contribution%20activity)](https://github.com/MuindiKate)
+[![Catherine's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MuindiKate&hide_border=true&area=true&color=6e7681&line=6e7681&point=24292e&area_color=6e7681&custom_title=Contribution%20activity)](https://github.com/MuindiKate)
 
 <div align="center">
 
