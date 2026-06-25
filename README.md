@@ -2,7 +2,7 @@
 
 # Hi, I'm Catherine Muindi 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-stack+engineer+building+impactful+tech+globally+%F0%9F%8C%8D;Nairobi+%E2%86%94%EF%B8%8F+Tallinn;Next.js+%C2%B7+Supabase+%C2%B7+Python+ML+pipelines;Building+products+in+Africa&center=true&width=600&height=45&color=2EA043&vCenter=true&size=22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines= Fullstack+engineer+building+impactful+tech+globally+%F0%9F%8C%8D;Nairobi+%E2%86%94%EF%B8%8F+Tallinn;Next.js+%C2%B7+Supabase+%C2%B7+Python+ML+pipelines;Building+products+in+Africa&center=true&width=600&height=45&color=2EA043&vCenter=true&size=22)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,8 +22,8 @@ I'm a software engineer based between Nairobi and Tallinn, building full-stack w
 | | |
 |---|---|
 | 🔭 **Currently working on** | **Elimisha** & **MedTriage** |
-| 🌱 **Currently learning** | RAG architectures, medical AI, affective computing |
-| 💬 **Ask me about** | Next.js, Supabase, Python ML pipelines, building products in Africa |
+| 🌱 **Currently learning** | RAG architectures, BioTech, affective computing |
+| 💬 **Ask me about** | Business Intelligence, Machine Learning, Python ML pipelines, building products in Africa |
 | 🗣️ **Languages** | English & Swahili (native) · Mandarin Chinese (HSK 3) |
 
 ---
