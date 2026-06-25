@@ -1,5 +1,4 @@
-Preview
-Markdown
+
 # Hi, I'm Catherine Muindi 👋
 
 ### Full-stack engineer building impactful tech across Africa 🌍
@@ -8,7 +7,7 @@ I'm a software engineer based between Nairobi and Tallinn, building full-stack w
 
 ---
 
-🔭 I'm currently working on **Elimisha** (scholarship discovery) & **Careerly** (AI job tracker)
+🔭 I'm currently working on **Elimisha**  & **MedTriage** 
 
 🌱 I'm learning **RAG architectures, medical AI, affective computing**
 
@@ -87,5 +86,9 @@ Real-time Kafka streaming pipeline with anomaly detection and Power BI visualisa
 
 ## ✨ A little more about me
 
-🎻 Violin & piano &nbsp;·&nbsp; 🌊 Swimmer &nbsp;·&nbsp; ✈️ Nairobi ↔ Tallinn &nbsp;·&nbsp; 🎨 Graphic design &nbsp;·&nbsp; 📚 Philosophy & psychology
- Copy markdown
+- 🎻 I play violin and piano
+- 🌊 Swimmer
+- ✈️ Travel enthusiast (Nairobi ↔ Tallinn and beyond)
+- 🎨 Graphic design on the side
+- 📚 Into philosophy & psychology
+
