@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi:) I'm Catherine Muindi 👋
+# Hi, I'm Catherine Muindi 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Engineer+%C2%B7+Backend+%C2%B7+ML;Nairobi+%E2%86%94%EF%B8%8F+Tallinn;Building+impactful+tech+globally+%F0%9F%8C%8D;Building+products+in+Africa&center=true&width=600&height=45&color=2EA043&vCenter=true&size=22)](https://git.io/typing-svg)
 
