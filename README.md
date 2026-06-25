@@ -6,7 +6,7 @@ I'm a software engineer based between Nairobi and Tallinn, building full-stack w
 
 ---
 
-🔭 I'm currently working on **medtriage Production-grade medical symptom triage API built with FastAPI, RAG architecture, and Claude AI. Designed for community health worker workflows in low-resource settings across sub-Saharan Africa.**
+🔭 I'm currently working on **MedTriage-A production-grade medical symptom triage for CHWs.**
 🌱 I'm learning **RAG architectures, medical AI, affective computing**
 💬 Ask me about **Next.js, Supabase, Python ML pipelines, building products in Africa**
 📫 Reach me: **cmuindi05@gmail.com**
