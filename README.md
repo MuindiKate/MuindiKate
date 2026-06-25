@@ -1,9 +1,9 @@
 
 # Hi, I'm Catherine Muindi 👋
 
-### Full-stack engineer building impactful tech across Africa 🌍
+### Full-stack engineer building impactful tech globally 🌍
 
-I'm a software engineer based between Nairobi and Tallinn, building full-stack web apps, ML-powered systems, and data-driven tools with a focus on social impact in Africa. Strathmore University Graduate · AWS Cloud & AI Practitioner certified.
+I'm a software engineer based between Nairobi and Tallinn, building full-stack web apps, ML-powered systems, and data-driven tools with a focus on social impact in the world. Strathmore University Graduate · AWS Cloud & AI Practitioner certified.
 
 ---
 
